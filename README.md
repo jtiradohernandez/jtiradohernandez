@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on Wallapop as QA Engineer
-- 🌱 I’m currently learning Kotlin
+- 🔭 Working on Wallapop as QA Engineer
+- 🌱 I’m currently learning Backend with Kotlin
 - 💬 Ask me about Home Assistant
 
