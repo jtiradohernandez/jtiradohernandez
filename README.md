@@ -2,6 +2,6 @@
 
 
 - 🔭 Working on Wallapop as QA Engineer
-- 🌱 I’m currently learning Java and AWS
+- 🌱  Looking for Backend engineer role
 - 💬 Ask me about Home Assistant
 
