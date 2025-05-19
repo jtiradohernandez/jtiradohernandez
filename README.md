@@ -1,5 +1,5 @@
 # 💫 About Me:
- 🔭Working on Wallapop as QA Engineer<br>🌱 Looking for Backend engineer role<br>💬 Ask me about Home Assistant, Unraid and all Home/Cloud Server related topics
+ 🔭Working on Wallapop as QA Engineer<br>🌱 Ask me about Home Assistant, Unraid and all Home/Cloud Server related topics
 
 
 ## 🌐 Socials:
